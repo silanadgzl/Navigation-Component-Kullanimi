@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationComponentOdev</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ana_sayfa">Ana Sayfa</string>
+    <string name="sayfa_a">Sayfa A</string>
+    <string name="sayfa_b">Sayfa B</string>
+    <string name="sayfa_y">Sayfa Y</string>
+    <string name="sayfa_x">Sayfa X</string>
+    <string name="bttn_a">A Sayfasına Git  >></string>
+    <string name="bttn_b">B Sayfasına Git  >></string>
+    <string name="bttn_y">Y Sayfasına Git  >></string>
+    <string name="bttn_x">X Sayfasına Git  >></string>
+    <string name="bttn_anasayfa">Ana Sayfaya Geri Dön </string>
+</resources>
